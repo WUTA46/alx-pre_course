@@ -1,1 +1,1 @@
-The first directory readme
+Readme file created for my first project
